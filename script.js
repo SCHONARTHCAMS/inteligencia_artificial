@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após sua aula de jazz você vai para a ecola e a profesora propõe que você faça um trabalho, como você vai fazer?",
+        enunciado: "Após sua aula de jazz você vai para a escola e a profesora propõe que você faça um trabalho, como você vai fazer?",
         alternativas: [
             {
                 texto: "Vou utilizar o chat GPT, seguindo o que disse o robô.",
